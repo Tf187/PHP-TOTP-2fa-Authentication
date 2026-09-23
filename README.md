@@ -466,6 +466,3 @@ A production application should additionally consider:
 
 ---
 
-## License
-
-MIT
